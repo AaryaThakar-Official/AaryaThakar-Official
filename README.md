@@ -27,6 +27,8 @@ Hi, I'm Arya! 👋  <br><br>Welcome to my GitHub profile! I am a Computer Scienc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaThakar-Official&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+<!--
+This Will show profile view count:
 [![](https://visitcount.itsvg.in/api?id=AaryaThakar-Official&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
