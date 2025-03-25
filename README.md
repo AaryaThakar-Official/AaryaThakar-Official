@@ -1,4 +1,4 @@
-<!--Hello, I'm Aarya Thakar.
+<!--Hello, I'm Aarya R. Thakar.
 
 - 👀 I’m interested in Computer Science, AI, ML, DL, Cyber Security, IT, Technology, Linux, Engineering and Science.
 - 🌱 I’m currently studying Computer Science and Engineering in India.
